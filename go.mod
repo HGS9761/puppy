@@ -1,4 +1,4 @@
-module github.com/GoesToEleven/puppy
+module github.com/HGS9761/puppy
 
 go 1.20
 
