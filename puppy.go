@@ -3,7 +3,7 @@ package puppy
 import (
 	"fmt"
 
-	"github.com/GoesToEleven/dog"
+	"github.com/HGS9761/dog"
 )
 
 func Bark() string {
